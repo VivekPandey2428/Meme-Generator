@@ -9,10 +9,12 @@
     color:#fff;
     left:0;
     top:0;
+    text-align: center;
+    z-index: 100;
 }
 
 .Navbar-container h1{
-    width:auto;
+    width:100%;
     margin-left:50px;
     font-family: cursive;
     letter-spacing: 5px;
